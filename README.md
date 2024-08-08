@@ -7,21 +7,19 @@ This Symposium is for Tongan youth aged 16-35! Unleash your passion for technolo
 This year's theme is "Bridging the Divide: Empowering Youth Through Digital Skills and Innovation and Digital Entrepreneurship".
 
 ## Flyer
----
+
 <p align="center">
  <img width="500" src="https://github.com/EdwinLiavaa/TWICT-Youth-ICT-Symposium/blob/main/files/flyer.jpg">
 </p>
 
 ## Agenda
 
----
 Please download the Agenda from [here](https://github.com/EdwinLiavaa/TWICT-Youth-ICT-Symposium/blob/main/files/agenda.pdf) 
 
 ## Presentation
 
 A [Decentralized Digital Micro Future - A Blockchain Micro-Governance Model with Satellite Broadband Connectivity powered by Renewable Energy](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240718/20240718.md)
 
----
 Please download the Presentation from [here](https://github.com/EdwinLiavaa/TWICT-Youth-ICT-Symposium/blob/main/files/Decentralized-Digital-Micro-Future-Edwin-Liavaa.pdf) 
 
 ## Some useful links
