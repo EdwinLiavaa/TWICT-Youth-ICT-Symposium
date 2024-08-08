@@ -18,7 +18,7 @@ Please download the Agenda from [here](https://github.com/EdwinLiavaa/TWICT-Yout
 
 ## Presentation
 
-A [Decentralized Digital Micro Future - A Blockchain Micro-Governance Model with Satellite Broadband Connectivity powered by Renewable Energy](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240718/20240718.md)
+[Decentralized Digital Micro Future - A Blockchain Micro-Governance Model with Satellite Broadband Connectivity powered by Renewable Energy](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240718/20240718.md)
 
 Please download the Presentation from [here](https://github.com/EdwinLiavaa/TWICT-Youth-ICT-Symposium/blob/main/files/Decentralized-Digital-Micro-Future-Edwin-Liavaa.pdf) 
 
