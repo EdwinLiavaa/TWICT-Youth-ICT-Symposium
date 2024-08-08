@@ -26,7 +26,7 @@ Please download the Presentation from [here](https://github.com/EdwinLiavaa/TWIC
 
 1. [Decentralized Micro-Governance Model for the Kingdom of Tonga Based on Proof-of-Work Consensus](https://www.researchgate.net/publication/380904006_Decentralized_Micro-Governance_Model_for_the_Kingdom_of_Tonga_Based_on_Proof-of-Work_Consensus)
    
-2. [The Bitcoin Revolution: A Vision for a Decentralized Future from Bitcoin 2024](hhttps://hackernoon.com/the-bitcoin-revolution-a-vision-for-a-decentralized-future-from-bitcoin-2024)
+2. [The Bitcoin Revolution: A Vision for a Decentralized Future from Bitcoin 2024](https://hackernoon.com/the-bitcoin-revolution-a-vision-for-a-decentralized-future-from-bitcoin-2024)
    
 3. [Bitcoin: From Philosophical Ideal to Practical Liberation](https://hackernoon.com/bitcoin-from-philosophical-ideal-to-practical-liberation)
 
